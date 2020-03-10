@@ -1,2 +1,2 @@
 # SI-Estacionamento
-Área de fontes e documentos do projeto de sistema de gestão de estacionamento.
+# Projeto de informatização da gestão de entrada, saida e permanência de veículos em estacionamento.

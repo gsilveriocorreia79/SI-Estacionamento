@@ -1,2 +1,2 @@
-# Guarde nessa pasta, somente docuemntos de projeto
+# Guarde nessa pasta, somente documentos de projeto
 # Exemplo: Material produzido com ASTAH, BIZAGI, DATAMODELER
